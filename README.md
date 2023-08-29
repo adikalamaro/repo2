@@ -1,4 +1,4 @@
-# repo2
+# Deep Learning Project
 I undertook a significant project focusing on the classification task of predicting heart attacks. During the data analysis phase, I made noteworthy findings by identifying valuable patterns within the dataset. To ensure optimal model performance, I utilized advanced techniques for feature transformation and normalization.
 
 In order to build robust models, I employed the Random Forest and XGBoost algorithms, which are well-regarded for their effectiveness in predictive tasks. Additionally, considering the issue of imbalanced data, I addressed this challenge by implementing the Synthetic Minority Over-sampling Technique (SMOTE) to create synthetic samples and balance the classes.
